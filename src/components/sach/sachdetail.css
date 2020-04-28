@@ -1,0 +1,13 @@
+iframe{
+    display: block;
+    width: 800px;
+    height: 400px;
+    margin: 30px auto;
+    border: 0;
+}
+/* p{
+    text-align: center;
+}
+h2{
+    text-align: center;
+} */
